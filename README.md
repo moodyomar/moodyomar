@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moodyomar
 - 👀 I’m interested in Web/App Development
-- 📜 I’m currently a Junior Full Stack Web Development
+- 📜 I’m currently a Junior Full Stack Developer
 - 📚 I'm learning on a daily basis 
 - 💞️ I’m looking to collaborate on Projects
 - 📫 Reach me on <a href="https://www.linkedin.com/in/mohammad-shihab-40b1281a2/">LinkedIn</a>
