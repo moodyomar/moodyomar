@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me ...
+- 📫 Reach me on <a href="https://www.linkedin.com/in/mohammad-shihab-40b1281a2/">LinkedIn</a>
 
 <!---
 moodyomar/moodyomar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
