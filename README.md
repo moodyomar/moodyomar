@@ -37,6 +37,6 @@
   <a href="http://linkedin.com/in/moodyomar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href="https://www.facebook.com/Moodyomarz"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"> </a>
 <a href="http://twitter.com/moodyomarz"><img src="https://img.shields.io/badge/moodyomarz-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"> </a>
-<a href="http://http://instagram.com/moodyomarz/"><img src="https://img.shields.io/badge/moodyomarz-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
+<a href="http://instagram.com/moodyomarz/"><img src="https://img.shields.io/badge/moodyomarz-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
 
   </ul>
